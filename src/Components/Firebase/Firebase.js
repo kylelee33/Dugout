@@ -3,12 +3,12 @@ import 'firebase/auth';
 import 'firebase/database';
 
 const config = {
-    apiKey: "AIzaSyBCehhYxRomrDlS9DUaIGVLnyLVPr-L2CE",
-    authDomain: "dugout-eec3f.firebaseapp.com",
-    databaseURL: "https://dugout-eec3f.firebaseio.com",
-    projectId: "dugout-eec3f",
-    storageBucket: "dugout-eec3f.appspot.com",
-    messagingSenderId: "511353098748"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: ""
   };
 
   class Firebase {
